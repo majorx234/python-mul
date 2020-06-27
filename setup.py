@@ -5,8 +5,8 @@ setup(
   version = '1.0',      
   license='MIT',        
   description = 'This package returns multiplication of two integers.',   
-  url = 'https://github.com/YugantM/python_mul_module',   
-  download_url = 'https://github.com/YugantM/python_mul_module.git',  
+  url = 'https://github.com/majorx234/python-mul',   
+  download_url = 'https://github.com/majorx234/python-mul.git',  
   scripts=['scripts/mul'], 
   keywords = ['multiplication', 'calculation'],  
   
