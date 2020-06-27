@@ -7,7 +7,7 @@ setup(
   description = 'This package returns multiplication of two integers.',   
   url = 'https://github.com/YugantM/python_mul_module',   
   download_url = 'https://github.com/YugantM/python_mul_module.git',  
-  
+  scripts=['scripts/mul'], 
   keywords = ['multiplication', 'calculation'],  
   
   classifiers=[
