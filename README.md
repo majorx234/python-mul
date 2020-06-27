@@ -1,2 +1,2 @@
-# python-mul
-python library for multiplication
+# python_mul_module
+ 
