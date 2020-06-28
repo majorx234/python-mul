@@ -1,7 +1,7 @@
 import sys
 
 def mul(x,y):
-    print(x*y)
+    print("mul: %d" % x*y)
     return x*y
 
 def main():    
